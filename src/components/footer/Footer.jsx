@@ -3,7 +3,12 @@ import './footer.css'
 
 function Footer() {
     return (
-        <div>Footer</div>
+        <div>
+            <small>
+                <a href='https://www.freepik.com/vectors/connect-background'>Connect background vector created by rawpixel.com - www.freepik.com</a>
+            </small>
+        </div>
+
     )
 }
 
