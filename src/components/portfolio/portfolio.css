@@ -20,10 +20,14 @@
 }
 
 .portfolio__item-image {
-    width: 20rem;
-    height: auto;
     border-radius: 1.5rem;
     overflow: hidden;
+}
+
+.portfolio__item img {
+    background: var(--color-primary);
+    height: 20rem;
+    width: 22rem;
 }
 
 .portfolio__item h3 {
